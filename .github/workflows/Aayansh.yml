@@ -1,4 +1,4 @@
-name: Secure DevSecOps Pipeline 
+name: Secure Pipeline 
 
 on: 
   push: 
