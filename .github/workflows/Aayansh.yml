@@ -3,7 +3,7 @@ name: Secure Pipeline
 on: 
   push: 
     branches: 
-      - master 
+      - main
 
 jobs: 
   build_and_package: 
