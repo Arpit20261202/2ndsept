@@ -55,8 +55,6 @@ jobs:
       - name: Deploy
         run: echo "my code is deployed"
 
-
-
       - name: Rollback
         if: ${{ failure() }}
         run: echo "rollback is done"
